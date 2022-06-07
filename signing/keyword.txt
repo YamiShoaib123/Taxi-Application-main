@@ -1,0 +1,8 @@
+password : gamingzone123
+alias: key0
+name: Taxi_App
+city: gujranwala
+province: punjab:
+country code : 92
+organizational unit: taxi:
+organizational: taxi
